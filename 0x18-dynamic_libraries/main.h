@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+#ifndef _DYN_LIBS_
+#define _DYN_LIBS_
+
+>>>>>>> e67371493b65a5ec04e8f6a3c4e1702a614ff306
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
@@ -18,3 +24,8 @@ char *_strchr(char *s, char c);
 unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
+<<<<<<< HEAD
+=======
+
+#endif
+>>>>>>> e67371493b65a5ec04e8f6a3c4e1702a614ff306
